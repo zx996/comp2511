@@ -1,0 +1,71 @@
+{
+  "width": 1,
+  "height": 12,
+  "entities": [
+    {
+      "x": 0,
+      "y": 0,
+      "type": "player"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": "wall"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "type": "exit"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "type": "treasure"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "type": "door",
+      "id": 1
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "type": "key",
+      "id": 1
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "type": "boulder"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "type": "switch"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "type": "bomb"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "type": "enemy"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "type": "sword"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "type": "invincibility"
+    }
+  ],
+  "goal-condition": {
+    "goal": "exit"
+  }
+}
